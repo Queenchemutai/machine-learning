@@ -75,7 +75,7 @@ cervical-cancer/
 
 1. Clone the repository
 
- git  clone https://github.com/Queenchemutai/machine_learning/cervical_cancer.ipynb.git
+ git  clone https://github.com/Queenchemutai/machine-learning/cervical_cancer.ipynb.git
 
 2. Install dependencies
 
