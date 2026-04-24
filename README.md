@@ -49,9 +49,7 @@ cancer risk.
 
 - Cross-validation ensured model robustness and reduced overfitting
 
-
-
-*(You can add actual scores here, e.g., ROC-AUC = 0.87)*
+![cancer_results](figure/ROC_results.png)
 
  4. Softwares and tools
 
