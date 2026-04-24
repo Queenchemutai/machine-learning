@@ -1,0 +1,27 @@
+# Data files (Kaggle .csv and others)
+*.csv
+*.tsv
+*.zip
+*.gz
+data/
+
+# Machine Learning Models (Large binary files)
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.onnx
+models/
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
